@@ -15,7 +15,6 @@
 
 ##  Aperçu
 
-![Architecture Data Pipeline](/images/architectureIrasshaiProject.png)
 ![Dashboard iRASSHAi](/images/demo_dashboard_irasshai.gif)
 
 ---
@@ -29,7 +28,7 @@
 
 ##  Architecture
 
-![Architecture Data Pipeline](assets/architecture-irasshai.png)
+![Architecture Data Pipeline](/images/architectureIrasshaiProject.png)
 
 - **Source** : Données synthétiques (2500 commandes, 2022-2024)
 - **Storage** : BigQuery (vues SQL optimisées)
