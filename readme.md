@@ -20,11 +20,10 @@
 
 ---
 
-##  Dashboard Live
+##  Dashboard Live -- Cliquez dessous !
 
 **[Voir le dashboard interactif](https://lookerstudio.google.com/u/0/reporting/d8fe067e-6490-45ae-87a2-e61de75d6328/page/yR8eF)**
 
-![Dashboard iRASSHAi](assets/dashboard-irasshai.png)
 
 ---
 
