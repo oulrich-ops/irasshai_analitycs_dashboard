@@ -39,10 +39,10 @@
 ## Installation
 
 ```bash
-git clone https://github.com/[ton-username]/irasshai-dashboard.git
-cd irasshai-dashboard
+git clone https://github.com/oulrich-ops/irasshai_analitycs_dashboard.git
+cd irasshai_analitycs_dashboard
 pip install pandas numpy
-python scripts/generate_irasshai_sales_data.py
+python generate_irasshai_sales_data.py
 
 ```
 
